@@ -1,0 +1,9 @@
+Feature,Importance
+numeric__Transportation_Cost,0.27971033198648054
+numeric__Distance_km,0.2501643301248195
+numeric__Shipment_Weight_kg,0.22175929856529192
+numeric__Shipment_Volume,0.18428125827145275
+categorical__Transport_Mode_Air,0.02153352075369484
+categorical__Transport_Mode_Sea,0.01514380831387962
+categorical__Transport_Mode_Rail,0.015056659074790046
+categorical__Transport_Mode_Road,0.012350792909590732
